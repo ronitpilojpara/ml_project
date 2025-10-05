@@ -1,10 +1,10 @@
-This is my college project based on Machine Learning.
+🎓 This is my college project based on Machine Learning.
 
-The project demonstrates:
-1. Data Preprocessing
-2. Algorithm Accuracy
-3. ML Algorithm Graphs
-4. Visualizations
-5. Predictions
+The project demonstrates the following:
+1️⃣ Data Preprocessing
+2️⃣ Algorithm Accuracy Evaluation
+3️⃣ 📊 Machine Learning Algorithm Graphs
+4️⃣ 📈 Visualizations
+5️⃣ 🤖 Predictions
 
-It also includes the dataset, which is based on BMW car sales data.
+📂 The project also includes a dataset based on BMW car sales data, which is used for training and testing the ML models.
